@@ -11,6 +11,7 @@ int main()
 	cout << " Moi ban nhap ten: ";
 	cin >> ten;
 	cout << "Ten cua ban la: " << ten << endl;
+	return 0;
 }
 
 
